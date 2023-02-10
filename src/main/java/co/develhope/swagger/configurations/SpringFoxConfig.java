@@ -37,8 +37,7 @@ public class SpringFoxConfig {
                 .tags(
                         new Tag("name-controller", "The name controller"),
                         new Tag("default-controller", "Il controller iniziale principale per tutte le funzionalità API")
-                )
-                ;
+                );
     }
 
 }
